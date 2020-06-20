@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "LEDShimPlatform",
   "pluginType": "platform",
   "singular": true,
   "schema": {
